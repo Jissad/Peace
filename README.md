@@ -1,13 +1,14 @@
 Welcome to my **Cybersecurity Analyst** portfolio! This repository showcases my work in **network security, penetration testing, threat intelligence, and incident response**.  
 
 ## 🔥 **About Me**  
-I'm a **Cybersecurity Analyst** passionate about securing networks, analyzing threats, and mitigating cyber risks. With expertise in **SIEM, threat hunting, vulnerability assessment, and ethical hacking**, I focus on strengthening security posture in organizations.  
+I'm a **Cybersecurity Analyst** passionate about securing networks, analyzing threats, and mitigating cyber risks. With expertise in **SIEM, threat hunting, vulnerability assessment, and ethical hacking**, skilled in risk management frameworks and regulatory compliance, with demonstrated success in internal audits aligned to CIA and DAD triads, ensuring data confidentiality, integrity, and availability. I focus on strengthening security posture in organizations.  
 
 - 🏆 **Certifications:** CEH, Security+, CISSP (In Progress)  
-- 📡 **SIEM Experience:** Splunk, QRadar, Elastic Security  
+- 📡 **SIEM Experience:** Splunk, QRadar, Elastic Security
 - 🖥️ **Pentesting Tools:** Kali Linux, Metasploit, Burp Suite  
-- 🔒 **Security Frameworks:** NIST, ISO 27001, MITRE ATT&CK  
-- 📍 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)  
+- 🔒 **Security Frameworks:** NIST, ISO 27001, MITRE ATT&CK
+- ▪	    Certified Data Protection Officer
+- 📍 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/peace-asonye)  
 
 ---
 
@@ -53,15 +54,18 @@ Developed a **machine learning-based ransomware detection system** analyzing fil
 ---
 
 ## 🏆 **Certifications**  
+      Cybersecurity Analytics - 10Alytics
+      Certified ISO 27001 Lead Implementer
 ✅ **CompTIA Security+** *(in view)*  
-✅ **Certified Ethical Hacker (CEH)** *(in view)*  
-⏳ **CISSP (In Progress)**  
+✅   Certified ISO 27001 Lead Implementer 
+⏳ **CC® - Certified in Cybersecurity (ISC) 2**  
+      
 
 ---
 
 ## 📬 **Contact Me**  
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/yourname)  
+- 📧 **Email:** [your.email@example.com](phba015@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/peace-asonye)  
 - 🌍 **Website/Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
 
 ---
