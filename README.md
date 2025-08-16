@@ -7,7 +7,7 @@ I'm a **Cybersecurity Analyst** passionate about securing networks, analyzing th
 - 📡 **SIEM Experience:** Splunk, QRadar, Elastic Security
 - 🖥️ **Pentesting Tools:** Kali Linux, Metasploit, Burp Suite  
 - 🔒 **Security Frameworks:** NIST, ISO 27001, MITRE ATT&CK
-- ▪	    Certified Data Protection Officer
+- 🔒 **Certified Data Protection Officer
 - 📍 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/peace-asonye)  
 
 ---
@@ -54,10 +54,10 @@ Developed a **machine learning-based ransomware detection system** analyzing fil
 ---
 
 ## 🏆 **Certifications**  
-      Cybersecurity Analytics - 10Alytics
-      Certified ISO 27001 Lead Implementer
-✅ **CompTIA Security+** *(in view)*  
-✅   Certified ISO 27001 Lead Implementer 
+✅ **Cybersecurity Analytics - 10Alytics
+✅ **Certified ISO 27001 Lead Implementer
+✅ **CompTIA Security+**  
+✅ **Certified ISO 27001 Lead Implementer 
 ⏳ **CC® - Certified in Cybersecurity (ISC) 2**  
       
 
